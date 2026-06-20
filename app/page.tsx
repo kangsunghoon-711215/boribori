@@ -11,7 +11,7 @@ const images = [
   { src: "/images/12p.jpg", alt: "락토 베지테리언" },
   { src: "/images/13p.jpg", alt: "고소함과 구수함의 차이" },
   { src: "/images/14p.jpg", alt: "구수함을 추구합니다" },
-  { src: "/images/15p.jpg", alt: "구수함 비교" },
+  { src: "/images/15p-1.png", alt: "구수함 비교" },
   { src: "/images/16p.jpg", alt: "보리를 먹어야 하는 5가지 이유" },
   { src: "/images/17p.jpg", alt: "이런분들께 추천드립니다" },
   { src: "/images/18p.jpg", alt: "더 맛있게 먹는 팁" },
