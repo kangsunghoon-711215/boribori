@@ -17,6 +17,7 @@ const images = [
   { src: "/images/18p.jpg", alt: "더 맛있게 먹는 팁" },
   { src: "/images/19p_gif.gif", alt: "한양보리" },
   { src: "/images/20p.jpg", alt: "보관방법 및 조리법" },
+  { src: "/images/20p-add.png", alt: "추가 안내" },
   { src: "/images/21p-3.png", alt: "포장 설명" },
   { src: "/images/22p-4.jpg", alt: "제품 상세정보" },
   { src: "/images/23p.jpg", alt: "이제 보리떡으로 시작해 보세요" },
