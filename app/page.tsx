@@ -6,7 +6,7 @@ const images = [
   { src: "/images/05p.jpg", alt: "Point 01 연구개발" },
   { src: "/images/06p.jpg", alt: "Point 02 저온 숙성 발효" },
   { src: "/images/07p.jpg", alt: "Point 03 특수공법 용기" },
-  { src: "/images/8p-1.png", alt: "보리떡 제품 사진" },
+  { src: "/images/08p-2.jpg", alt: "보리떡 제품 사진" },
   { src: "/images/11p_gif.gif", alt: "한양보리 특징" },
   { src: "/images/12p.jpg", alt: "락토 베지테리언" },
   { src: "/images/13p.jpg", alt: "고소함과 구수함의 차이" },
