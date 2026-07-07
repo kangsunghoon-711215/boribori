@@ -1,5 +1,5 @@
 const images = [
-  { src: "/images/00p-1.jpg", alt: "한양보리" },
+  { src: "/images/00p-2.jpg", alt: "한양보리" },
   { src: "/images/01p-1.png", alt: "보리떡 다 드셨을 텐데" },
   { src: "/images/02p.jpg", alt: "보리에 대하여" },
   { src: "/images/03p-3.jpg", alt: "보리떡 프리미엄" },
