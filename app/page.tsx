@@ -4,6 +4,7 @@ const images = [
   { src: "/images/02p.jpg", alt: "보리에 대하여" },
   { src: "/images/03p-3.jpg", alt: "보리떡 프리미엄" },
   { src: "/images/04p_gif.gif", alt: "한양보리 소개" },
+  { src: "/images/04p-1.jpg", alt: "한양보리 소개 2" },
   { src: "/images/05p.jpg", alt: "Point 01 연구개발" },
   { src: "/images/06p.jpg", alt: "Point 02 저온 숙성 발효" },
   { src: "/images/07p.jpg", alt: "Point 03 특수공법 용기" },
